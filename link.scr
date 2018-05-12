@@ -1,0 +1,43 @@
+# NetScript
+# 
+# Exported from Driver.sch at 3/28/18 10:39 PM
+# 
+# EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+# 
+Change Class 0;
+Signal 'GND'      'C1'       '2' \
+                  'IC1'      '1' \
+                  'IC1'      '10' \
+                  'IC1'      '11' \
+                  'IC1'      '20' \
+                  'IC1'      'PPAD' \
+                  'IC2'      '7' \
+                  'R1'       '1' \
+                  ;
+Change Class 0;
+Signal 'N$1'      'IC1'      '19' \
+                  'IC1'      '2' \
+                  'R1'       '2' \
+                  ;
+Change Class 0;
+Signal 'N$2'      'IC1'      '13' \
+                  'IC2'      '13' \
+                  ;
+Change Class 0;
+Signal 'N$3'      'IC1'      '3' \
+                  'IC2'      '10' \
+                  ;
+Change Class 0;
+Signal 'N$4'      'IC1'      '8' \
+                  'IC2'      '4' \
+                  ;
+Change Class 0;
+Signal 'N$5'      'IC2'      '1' \
+                  'IC2'      '11' \
+                  'IC2'      '5' \
+                  'IC2'      '8' \
+                  ;
+Change Class 0;
+Signal 'N$7'      'C1'       '1' \
+                  'IC2'      '14' \
+                  ;
