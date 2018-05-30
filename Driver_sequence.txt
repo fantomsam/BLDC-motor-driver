@@ -1,0 +1,18 @@
+Ha Hb Hc | Ea Eb Ec  Ia Ib Ic
+ 0  0  0 |  0  0  0   0  0  0
+ 0  0  1 |  0  1  1   0  0  1
+ 0  1  0 |  1  1  0   0  1  1
+ 0  1  1 |  1  0  1   0  1  1
+ 1  0  0 |  1  0  1   1  0  0
+ 1  0  1 |  1  1  0   1  0  0
+ 1  1  0 |  0  1  1   1  1  0
+ 1  1  1 |  0  0  0   0  0  0
+ 
+ 
+ Ea= Hb*/Hc+/Hb*Hc
+ Eb= Ha*/Hb+/Ha*Hb
+ Ec= Ha*/Hc+/Ha*Hc
+ 
+ /Ia= /Hb*Hc+/Ha*Hc
+ /Ib= Hb*/Hc+/Ha*Hb
+ /Ic= Ha*/Hc+Hb*/Hc
