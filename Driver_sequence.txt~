@@ -20,10 +20,6 @@ F_R   Ha Hb Hc | Ea Eb Ec  Ia Ib Ic
  Eb= Ha*/Hb+/Ha*Hb
  Ec= Ha*/Hc+/Ha*Hc
  
- #/Ia= /Hb*Hc+/Ha*Hc 
- #/Ib= Hb*/Hc+/Ha*Hb 
- #/Ic= Ha*/Hc+Hb*/Hc 
- 
- /Ia=/Ha*Hb*/Hc+/F_R*Hb*/Hc+F_R*/Hb*Hc+Ha*/Hb*Hc
- /Ib=Ha*/Hb*/Hc+/F_R*Ha*/Hc+F_R*/Ha*Hc+/Ha*Hb*Hc
- /Ic=F_R*/Hb*/Hc+Ha*/Hb*/Hc+/Ha*Hb*Hc+/F_R*Hb*Hc
+ /Ia= /Hb*Hc+/Ha*Hc -/Ha*Hb*/Hc+/F_R*Hb*/Hc+F_R*/Hb*Hc+Ha*/Hb*Hc
+ /Ib= Hb*/Hc+/Ha*Hb -Ha*/Hb*/Hc+/F_R*Ha*/Hc+F_R*/Ha*Hc+/Ha*Hb*Hc
+ /Ic= Ha*/Hc+Hb*/Hc -F_R*/Hb*/Hc+Ha*/Hb*/Hc+/Ha*Hb*Hc+/F_R*Hb*Hc
